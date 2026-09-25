@@ -3,5 +3,6 @@
 // run time enviroment 
 // javascript ka code run karna hai but browser ke bahar run krna
 // npm init y
-// package is reuseable code which is write by any developer
-// 
+// package is reuseable code which is writen by any developer
+// packaage json hume bata hai naam ki kon kon si dependies hai contain karte hai 
+but vo actualle me node module ke andar present hote hai
